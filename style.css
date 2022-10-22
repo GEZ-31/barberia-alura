@@ -179,6 +179,9 @@ th, td{
 .items{
     line-height: 1.5;
 }
+.items:before{
+    content: "★";
+}
 .imagen-diferenciales{
     width: 60%;
 }
